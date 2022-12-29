@@ -1,28 +1,28 @@
 [
     {
         "name": "Kotlin",
-        "quadrant": "Quad1",
+        "quadrant": "Platforms & Infrastructure",
         "ring": "adopt",
         "isNew": "FALSE",
         "description": "Last awailable version"
     },
     {
         "name": "Kotlin",
-        "quadrant": "Quad2",
+        "quadrant": "Languages & Frameworks",
         "ring": "adopt",
         "isNew": "FALSE",
         "description": "Last awailable version"
     },
     {
         "name": "Kotlin",
-        "quadrant": "Quad3",
+        "quadrant": "Data Management",
         "ring": "adopt",
         "isNew": "FALSE",
         "description": "Last awailable version"
     },
     {
         "name": "Kotlin",
-        "quadrant": "Quad4",
+        "quadrant": "Techniques & Tools",
         "ring": "adopt",
         "isNew": "FALSE",
         "description": "Last awailable version"
