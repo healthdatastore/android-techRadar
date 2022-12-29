@@ -82,5 +82,12 @@
         "ring": "adopt",
         "isNew": "FALSE",
         "description": ""
+    },
+    {
+        "name": "TeamCity",
+        "quadrant": "Platforms & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
     }
 ]
