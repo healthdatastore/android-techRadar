@@ -21,6 +21,13 @@
         "description": ""
     },
     {
+        "name": "Jetpack Compose",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
         "name": "Retrofit",
         "quadrant": "Techniques & Tools",
         "ring": "adopt",
@@ -85,7 +92,7 @@
     },
     {
         "name": "TeamCity",
-        "quadrant": "Platforms & Tools",
+        "quadrant": "Platform & Infrastructure",
         "ring": "adopt",
         "isNew": "FALSE",
         "description": ""
