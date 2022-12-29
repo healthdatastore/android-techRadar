@@ -1,32 +1,30 @@
-{
 [
     {
-      "name": "Kotlin",
-      "quadrant": "Quad1",
-      "ring": "adopt",
-      "isNew": false,
-      "description": "Last awailable version"
+        "name": "Kotlin",
+        "quadrant": "Quad1",
+        "ring": "adopt",
+        "isNew": false,
+        "description": "Last awailable version"
     },
     {
-    "name": "Kotlin",
-      "quadrant": "Quad2",
-      "ring": "adopt",
-      "isNew": false,
-      "description": "Last awailable version"
+        "name": "Kotlin",
+        "quadrant": "Quad2",
+        "ring": "adopt",
+        "isNew": false,
+        "description": "Last awailable version"
     },
     {
-    "name": "Kotlin",
-      "quadrant": "Quad3",
-      "ring": "adopt",
-      "isNew": false,
-      "description": "Last awailable version"
+        "name": "Kotlin",
+        "quadrant": "Quad3",
+        "ring": "adopt",
+        "isNew": false,
+        "description": "Last awailable version"
     },
     {
-    "name": "Kotlin",
-      "quadrant": "Quad4",
-      "ring": "adopt",
-      "isNew": false,
-      "description": "Last awailable version"
+        "name": "Kotlin",
+        "quadrant": "Quad4",
+        "ring": "adopt",
+        "isNew": false,
+        "description": "Last awailable version"
     }
-  ]
-}
+]
