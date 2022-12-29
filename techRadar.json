@@ -1,30 +1,86 @@
 [
     {
         "name": "Kotlin",
-        "quadrant": "Platforms & Infrastructure",
-        "ring": "adopt",
-        "isNew": "FALSE",
-        "description": "Last awailable version"
-    },
-    {
-        "name": "Kotlin",
         "quadrant": "Languages & Frameworks",
         "ring": "adopt",
         "isNew": "FALSE",
-        "description": "Last awailable version"
+        "description": ""
     },
     {
-        "name": "Kotlin",
-        "quadrant": "Data Management",
+        "name": "Kotlin Coroutines",
+        "quadrant": "Languages & Frameworks",
         "ring": "adopt",
         "isNew": "FALSE",
-        "description": "Last awailable version"
+        "description": ""
     },
     {
-        "name": "Kotlin",
+        "name": "Kotlin Coroutines Flow",
+        "quadrant": "Languages & Frameworks",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Retrofit",
         "quadrant": "Techniques & Tools",
         "ring": "adopt",
         "isNew": "FALSE",
-        "description": "Last awailable version"
+        "description": ""
+    },
+    {
+        "name": "OKHTTP",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "GSON",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Anvil",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Fresco",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "JUnit 4",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Mockito",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Espresso",
+        "quadrant": "Techniques & Tools",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Room",
+        "quadrant": "Data Management",
+        "ring": "adopt",
+        "isNew": "FALSE",
+        "description": ""
     }
 ]
