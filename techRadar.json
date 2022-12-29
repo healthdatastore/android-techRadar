@@ -1,0 +1,14 @@
+{
+  "title": "HealthDataStore Android Radar",
+  "quadrants": ["Quad1", "Quad2", "Quad3", "Quad4"],
+  "rings": ["adopt", "trial", "assess", "hold"],
+  "blips": [
+    {
+      "name": "Kotlin",
+      "quadrant": "Quad1",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "Last awailable version"
+    }
+  ]
+}
